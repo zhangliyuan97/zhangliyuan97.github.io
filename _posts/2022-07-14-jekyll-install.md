@@ -1,6 +1,6 @@
 ---
 layout: post
-title: " Install Jekyll on MacOS"
+title: "Install Jekyll on MacOS"
 date: 2022-07-14 16:44:57 +0800
 ---
 This is a pipeline of install Jekll on MacOS.
